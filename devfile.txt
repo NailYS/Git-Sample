@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello Devcolibri my change
+=======
+Hello Devcolibri 
+Julia hello
+>>>>>>> dev
